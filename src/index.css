@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rampart+One&display=swap');
+
+* {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #606060;
+  border-radius: 10px;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #1e1e1e;
+}
+
+ul {
+  list-style: none;
+  margin: 0 auto;
+}
+
+a {
+  color: lightblue;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+}
+
+.badges {
+  margin-top: 1rem;
+}
+
+.badge {
+  margin-right: 1rem;
+}
+
+.badge:hover {
+  opacity: .75;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 3rem;
+}
+
+.cards div {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 780px) {
+  .cards {
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+}
