@@ -1,12 +1,3 @@
-# Info My Git
-## A simple usage of the Github API to extract info from my Github page
-
----
-
-The Github API provides an easy way to extract information from my Github page. By accessing the API, I can gather data about my repositories, commits, pull requests, and more. This data can be used to automate tasks or gain insights into my coding habits and productivity. With this simple usage of the Github API, I can streamline my workflow and make the most out of my coding activity. The app is also responsive, adapting to different screen sizes, and provides a seamless user experience on both desktop and mobile devices.
-
----
-
 ![badge](https://img.shields.io/github/watchers/wdpedroborges/infomygit?style=social)
 ![badge](https://img.shields.io/github/stars/wdpedroborges/infomygit?style=social)
 ![badge](https://img.shields.io/github/license/wdpedroborges/infomygit)
@@ -15,11 +6,14 @@ The Github API provides an easy way to extract information from my Github page. 
 ![badge](https://img.shields.io/badge/powered%20by-typescript-blue)
 ![badge](https://img.shields.io/badge/powered%20by-sass-blue)
 
----
+# Info My Git
+## A simple usage of the Github API to extract info from my Github page
+
+The Github API provides an easy way to extract information from my Github page. By accessing the API, I can gather data about my repositories, commits, pull requests, and more. This data can be used to automate tasks or gain insights into my coding habits and productivity. With this simple usage of the Github API, I can streamline my workflow and make the most out of my coding activity. The app is also responsive, adapting to different screen sizes, and provides a seamless user experience on both desktop and mobile devices.
 
 ## Live Demo
 
-[Click here to see it]((wdpedroborges.github.io/infomygit))
+wdpedroborges.github.io/infomygit
 
 ## Features
 
